@@ -36,6 +36,13 @@ You’re free to share and adapt with attribution.
 ---
 
 📬 For partnership or collaboration, please contact:  
+<<<<<<< HEAD
 **[Your Name]** – Founder, TUITPay  
 📧 yourname@email.com  
 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
+=======
+**Mansur Isma'il Gotomo** – Founder, TUITPay  
+📧 mcindogtm@email.com  
+🔗 [LinkedIn](https://linkedin.com/in/mansur-ismail-gotomo-36b086191)
+
+>>>>>>> a482452bb4e9fa5d2d1b6e9d41922ff08d056f33
