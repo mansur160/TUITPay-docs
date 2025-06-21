@@ -1,7 +1,7 @@
 # Use Cases
 
 ### For Students
-- Earn tuition through academic performance
+- Earn tuition through mining and academic performance
 - Access to funding without traditional loans
 
 ### For Sponsors & NGOs
