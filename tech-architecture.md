@@ -2,11 +2,11 @@
 
 ## Tech Stack (Proposed)
 
-- **Frontend**: React.js / Vue.js
-- **Backend**: Node.js + Express or Laravel PHP
-- **Blockchain**: Ethereum (or Layer 2) using Solidity
-- **Database**: MongoDB / MySQL
-- **Middleware**: Web3.js or Ethers.js
+- **Frontend**: React.js
+- **Backend**: Node.js + Express
+- **Blockchain**: =Layer 2 (Polygon) using Solidity
+- **Database**: PostgreSQL
+- **Middleware**: Ethers.js
 - **APIs**: School systems integration for student verification
 
 ## Key Modules
