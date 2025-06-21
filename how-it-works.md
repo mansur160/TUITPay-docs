@@ -8,9 +8,9 @@ TUITPay functions within a closed-loop blockchain ecosystem that supports tuitio
 
 ## 2. Token Generation
 - Students earn $TUIT tokens through:
-  - Academic performance
-  - Assignments, assessments, attendance
-- Tokens are stored in user wallet (non-transferrable)
+  - Academic performance (i.e completing online courses)
+  - Mining
+- Tokens are stored in user wallet (non-transferrable outside ecosystem)
 
 ## 3. Redemption & Escrow Activation
 - Student selects partner institution
