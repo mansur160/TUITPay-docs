@@ -38,7 +38,7 @@ You’re free to share and adapt with attribution.
 📬 For partnership or collaboration, please contact:  
 =======
 **Mansur Isma'il Gotomo** – Founder, TUITPay  
-📧 mcindogtm@email.com  
+📧 mcindogtm@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/mansur-ismail-gotomo-36b086191)
 [Website](https://tuitpay.vercel.app/)
 
